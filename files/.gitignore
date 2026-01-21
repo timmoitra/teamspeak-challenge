@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# But don't ignore these files
+!.gitignore
+!index.html
+!README.md
+!QUICKSTART.md
+!LICENSE
+!DEPLOYMENT.md
+!setup-github.sh
+!setup-github.bat
